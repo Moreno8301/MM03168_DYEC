@@ -4,3 +4,4 @@ En este repositorio se encuentra el desarrollo de los 3 ejercicios solicitado en
 El archivo restanumeros.asm es el código fuente de un programa que realiza la resta de 3 números.
 El archivos multiplicanumeros.asm es el código fuente de un programa que realiza la multiplicación de 2 números.
 El archivo dividirnumeros.asm es el código fuente de un programa que realiza la división de 2 números (sin embargo este no genera el resultado esperado).
+También se agrega el archivo "Capturas.pdf" donde se muestran las capturas de pantalla de la terminal, de la ejecución de los programas.
